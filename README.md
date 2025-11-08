@@ -1,4 +1,4 @@
 # patricia-wey-tung-univesp
-olá
+olá!
 ainda em aprendizado 
 tudo bem?
